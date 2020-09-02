@@ -1,0 +1,22 @@
+#container {
+    height: 250px;
+    width: 250px;
+    background-color: gray;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+#mydiv {
+    height: 25px;
+    width: 25px;
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 100px;;
+    position: relative;
+    background-color: red;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    cursor: move;
+}
